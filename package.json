@@ -1,0 +1,14 @@
+{
+  "name": "node-cli-template",
+  "version": "1.0.0",
+  "description": "Node CLI Template",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "foo": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "4.x",
+    "inquirer": "^8.2.4"
+  }
+}
